@@ -9,5 +9,5 @@
  * @author Celina
  */
 public interface Monopoly {
-    
+    test();
 }
