@@ -8,6 +8,11 @@
  *
  * @author Celina
  */
-public interface Monopoly {
+public class Dice {
+    public int rollDice(){
+        int eyesOfDice;
+        eyesOfDice = (int)(Math.random() * 12); 
+        return eyesOfDice;
+    }
     
 }

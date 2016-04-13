@@ -8,6 +8,6 @@
  *
  * @author Celina
  */
-public interface Monopoly {
+public class Hotel extends House{
     
 }

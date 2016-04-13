@@ -8,6 +8,6 @@
  *
  * @author Celina
  */
-public interface Monopoly {
+public class Panelmanager implements Monopoly{
     
 }
